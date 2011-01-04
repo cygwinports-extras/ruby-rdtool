@@ -1,0 +1,5 @@
+inherit ruby
+
+
+HOMEPAGE="http://rubyforge.org/projects/rdtool/"
+SRC_URI="mirror://rubyforge/rdtool/${P}.tar.gz"

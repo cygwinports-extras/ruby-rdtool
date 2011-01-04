@@ -1,0 +1,9 @@
+category: Ruby
+requires: ruby
+sdesc: "Ruby documentation formatter"
+ldesc: "RD is multipurpose documentation format created for 
+documentating Ruby and output of Ruby world. You can embed RD into Ruby 
+script. And RD have neat syntax which help you to read document in Ruby 
+script. On the other hand, RD have a feature for class reference. RDtool 
+is one of frontends of formatter for RD. This package provides rd2 
+command."
