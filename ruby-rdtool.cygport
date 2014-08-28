@@ -1,6 +1,9 @@
 inherit rubygem
 
-
+NAME="ruby-rdtool"
+VERSION=0.6.37
+RELEASE=1
+CATEGORY="Ruby"
 SUMMARY="Ruby documentation formatter"
 DESCRIPTION="RD is multipurpose documentation format created for documentating
 Ruby and output of Ruby world. You can embed RD into Ruby script. And RD has
