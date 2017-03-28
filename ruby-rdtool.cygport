@@ -2,7 +2,7 @@ inherit rubygem
 
 NAME="ruby-rdtool"
 VERSION=0.6.38
-RELEASE=1
+RELEASE=3
 CATEGORY="Ruby"
 SUMMARY="Ruby documentation formatter"
 DESCRIPTION="RD is multipurpose documentation format created for documentating
